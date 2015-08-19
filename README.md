@@ -37,6 +37,7 @@ Required functionality to implment:
  - Create a new movie in the database
  - Update existing fields on an existing movie
  - Delete an existing movie
+ - Secure endpoints to the owner or a superuser
 
 You must use Django Rest Framework for this homework. How you do this is up to you as the framework is large.  
 
